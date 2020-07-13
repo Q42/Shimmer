@@ -146,7 +146,6 @@ static CAAnimation *shimmer_slide_finish(CAAnimation *a)
 @synthesize shimmeringBeginFadeDuration = _shimmeringBeginFadeDuration;
 @synthesize shimmeringEndFadeDuration = _shimmeringEndFadeDuration;
 @synthesize shimmeringBeginTime = _shimmeringBeginTime;
-@dynamic shimmeringHighlightWidth;
 
 - (instancetype)init
 {
